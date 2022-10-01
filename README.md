@@ -35,3 +35,6 @@ VERSÃO EM BLOCOS
 <img src="blocofotoresistor.png">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*SENSOR DE MOVIMENTO COM BUZZER*
+
+Na segunda metade da aulas construímos um exemplo de Sensor de Movimento, que ao detectar um movimento dispara um som que é emitido pelo Piezo incorporado a placa.
