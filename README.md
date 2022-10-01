@@ -2,7 +2,7 @@
 Curso de Extensão USJT - IoT na prática para iniciantes
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Aula 10/09/2022 - Projeto de Fotoresistor e Sensor de Moviemento com Buzzer - Por Prof. Henrique Poyatos:
+  Aula 03/09/2022 - Projeto de Fotoresistor e Sensor de Moviemento com Buzzer - Por Prof. Henrique Poyatos:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Construímos nosso primeiro projeto em arduino. Uma introdução mostrando como funciona alguns componentes e como montamos os códigos para rodar determinadas funções. Criamos um pisca pisca simples, com 2 LEDs, e incorporamos a função de botão em um deles.
