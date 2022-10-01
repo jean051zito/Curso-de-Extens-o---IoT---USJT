@@ -1,2 +1,2 @@
 # Curso-de-Extens-o---IoT---USJT
-s
+Curso de Extensão USJT - IoT na prática para iniciantes
