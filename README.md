@@ -27,7 +27,7 @@ Partimos para um projeto um pouco mais complexo, um sensor de luminosidade, que 
 
 <img src="fotoresistor.png"> 
 
-<a href="projetofotoresistor.ino">Clique aqui para o código.<a/>  
+<a href="projeto fotoresistor.ino">Clique aqui para o código.<a/>  
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 VERSÃO EM BLOCOS
