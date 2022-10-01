@@ -3,6 +3,7 @@ Curso de Extensão USJT - IoT na prática para iniciantes
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1) Aula 03/09/2022 - Projeto de pisca pisca - Por Prof. Henrique Poyatos:
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Construímos nosso primeiro projeto em arduino. Uma introdução mostrando como funciona alguns componentes e como montamos os códigos para rodar determinadas funções. Criamos um pisca pisca simples, com 2 LEDs, e incorporamos a função de botão em um deles.
@@ -19,7 +20,7 @@ VERSÃO EM BLOCOS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Aula 10/09/2022 - Projeto de Fotoresistor e Sensor de Moviemento com Buzzer - Por. Prof. Henrique Poyatos:
+  Aula 10/09/2022 - Projeto de Fotoresistor e Sensor de Moviemento com Buzzer - Por Prof. Henrique Poyatos:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *FOTORESISTOR*
   
@@ -38,3 +39,14 @@ VERSÃO EM BLOCOS
 *SENSOR DE MOVIMENTO COM BUZZER*
 
 Na segunda metade da aulas construímos um exemplo de Sensor de Movimento, que ao detectar um movimento dispara um som que é emitido pelo Piezo incorporado a placa.
+
+<img src="sensordemov.png"> 
+
+<a href="sensordemov.ino">Clique aqui para o código.<a/> 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VERSÃO EM BLOCOS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="blocosensordemov.png">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
